@@ -1,6 +1,5 @@
 language: node_js
 node_js:
-     - "6"
      - "8"
 script: node_modules/.bin/webpack
 deploy:
@@ -11,3 +10,4 @@ deploy:
      on:
           branch: src
      local_dir: "dist"
+     target_branch: "master"
