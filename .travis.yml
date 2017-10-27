@@ -9,5 +9,5 @@ deploy:
      github_token:
           secure: "LJ9H8q5bgnSg9PVO118pDc9iktthqoUkYy+1Etzm7v+d+E6TFV6LxcQ3vsVcoIQt9JVDwJRSv8tF7AEYyPOp+Xbg9XR4wPnsNRd2fV9NrybmzF4RbVCYanEkIbgCLa0hYgvP68AXEFHuYlowyLIsaCutbibGn4B9Rw6D+5pfqzB6zdihuQOif+LTTwKYPXpzh0s/pxDIx9v3mhSsPJiwCx7B0X9RaRxdcxx8PLxpJ++V5437lBoxtHxUBhXtwsuEzooOldDhYXjw1QSEh3A8BHWLLEoYUBUSaHFoRWww+zkf9042K7Ppn9MB8JbtyFdsW0TIlkNVnYpoZUH+smyUYPhZG75pSj//g4KxIp/a/8ze07djj5+YOA6YC/qAzQOJ+OpPDxKQbRUUVYTt19R65ol3vHWhYeHAqCBzF3r96z+M0+uxRiKmgq/d7ZviAV8KDgSkdxcplrpOhRlTsZqhgv674nNqSW0z6xeI2KV4pIkoDxaBZu9GbDDMgsZEyeU74K3FJAyyAlfBy0RrhcY14bOQbulmIYbpRexQoUKUh/EycxdaMcL0WJf0lUKoGocYNhciH4Kc7G+8FPSPhlU/7nu+kYkrXMs864u5NduvZLbJeQI1CpsJLwTsmFr19XPr0CFYUqxCPEAcQsRRWFWQ+w8dOsR+1fcS1M/crNl2/Z0="
      on:
-          branch: master
+          branch: src
      local_dir: "dist"
